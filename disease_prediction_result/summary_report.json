@@ -1,0 +1,26 @@
+{
+    "timestamp": "2025-08-28T17:13:23.890702",
+    "heart_dataset": {
+        "shape": {
+            "rows": 5,
+            "columns": 17
+        },
+        "class_distribution": {
+            "1": 3,
+            "0": 1,
+            "2": 1
+        },
+        "target_mapping": {
+            "0": "fixed defect",
+            "1": "normal",
+            "2": "reversable defect"
+        }
+    },
+    "successful_models": [
+        "Logistic Regression",
+        "Decision Tree",
+        "Random Forest"
+    ],
+    "best_model": "Random Forest",
+    "best_accuracy": 1.0
+}
